@@ -18,3 +18,7 @@ AI technologies—such as machine learning, deep learning, and predictive analyt
 - Develop Scalable, Real-Time Disaster Prediction Systems: Leverage AI and IoT to enable accurate, timely forecasting and early warning for diverse disaster scenarios *1,13,3*.
 - Enhance Transparency and Trust in Resource Allocation: Use blockchain to ensure secure, auditable, and equitable distribution of resources and information among stakeholders during disaster response *3,17,1*.
 - Facilitate Interoperable, Privacy-Preserving Data Sharing: Integrate federated learning and blockchain to allow collaborative model training and data exchange without compromising privacy or security *1,17*.
+
+## Developments
+- https://aubh-my.sharepoint.com/:p:/g/personal/f2400065_aubh_edu_bh/IQDNHTy6jZ9BT6pwIuQ7Di8oAR4ZSVaAJHkyg-q2dhigfuI?e=CTeNtq (Presentation document/Report)
+- 
