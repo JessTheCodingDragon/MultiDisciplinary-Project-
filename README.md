@@ -10,9 +10,9 @@ Disaster prediction and response systems face major challenges: fragmented data,
 AI technologies—such as machine learning, deep learning, and predictive analytics—can process real-time sensor and social data to forecast disasters and optimize emergency responses. Blockchain, with its decentralized, tamper-proof, and transparent ledger, addresses issues of data integrity, traceability, and trust among multiple agencies and organizations. The convergence of these technologies is inherently interdisciplinary, requiring expertise in data science, cybersecurity, logistics, emergency management, and policy to design, implement, and govern robust disaster management solutions *1,3,17,13,4*.
 
 ## Context
--Increasing Disaster Frequency and Complexity: Natural and man-made disasters are becoming more frequent and severe, demanding advanced, scalable, and adaptive management systems *1,3,13*.
--Data Explosion: The proliferation of IoT devices and social media generates vast, multi-modal data streams, necessitating AI for real-time analysis and blockchain for secure, transparent data management *13,17*.
--Stakeholder Coordination: Effective disaster response requires seamless collaboration among governments, NGOs, private sector, and affected communities, which is often hindered by siloed systems and lack of trust *3,17,4*.
+- Increasing Disaster Frequency and Complexity: Natural and man-made disasters are becoming more frequent and severe, demanding advanced, scalable, and adaptive management systems *1,3,13*.
+- Data Explosion: The proliferation of IoT devices and social media generates vast, multi-modal data streams, necessitating AI for real-time analysis and blockchain for secure, transparent data management *13,17*.
+- Stakeholder Coordination: Effective disaster response requires seamless collaboration among governments, NGOs, private sector, and affected communities, which is often hindered by siloed systems and lack of trust *3,17,4*.
 
 ## Objectives (Aims)
 - Develop Scalable, Real-Time Disaster Prediction Systems: Leverage AI and IoT to enable accurate, timely forecasting and early warning for diverse disaster scenarios *1,13,3*.
