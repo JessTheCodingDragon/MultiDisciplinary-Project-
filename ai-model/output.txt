@@ -1,0 +1,26 @@
+magnitude    0
+depth        0
+cdi          0
+mmi          0
+sig          0
+alert        0
+dtype: int64
+Saved plot: D:\Stuff\GitHub\MultiDisciplinary-Project-\plots\plot1_magnitude_hist.png
+Saved plot: D:\Stuff\GitHub\MultiDisciplinary-Project-\plots\plot2_depth_hist.png
+Saved plot: D:\Stuff\GitHub\MultiDisciplinary-Project-\plots\plot3_mag_depth_cdi.png
+Saved plot: D:\Stuff\GitHub\MultiDisciplinary-Project-\plots\plot4_mag_mmi_inferno.png
+Saved plot: D:\Stuff\GitHub\MultiDisciplinary-Project-\plots\plot5_alert_counts.png
+Saved plot: D:\Stuff\GitHub\MultiDisciplinary-Project-\plots\plot6_boxplot_mag_alert.png
+Saved plot: D:\Stuff\GitHub\MultiDisciplinary-Project-\plots\plot8_line_avg_sig.png
+Saved plot: D:\Stuff\GitHub\MultiDisciplinary-Project-\plots\plot10_bar_avg_sig_alert.png
+Accuracy: 0.912
+              precision    recall  f1-score   support
+
+       green       0.92      0.84      0.88        68
+      orange       0.91      0.95      0.93        73
+         red       0.98      0.95      0.97        64
+      yellow       0.83      0.91      0.87        55
+
+    accuracy                           0.91       260
+   macro avg       0.91      0.91      0.91       260
+weighted avg       0.91      0.91      0.91       260
