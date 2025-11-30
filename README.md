@@ -1,9 +1,9 @@
 # MultiDisciplinary-Project-Implemation/Presentation
 ## Our Members 
-- Fawaz Yusuf AlKaabi (leading Computer Science student expertise) 
+- Fawaz Yusuf Alkaabi (leading Computer Science student expertise) 
 - Jess Joyan Madassery (leading Computer Engineering student expertise) 
 - Rashid Abdur Rahim (leading Mechanical Engineering student expertise)
-## Our Topic : **Integrating Artificial Intelligence and Blockchain to Enhance Disaster Prediction and Response Systems**
+## Our Topic : **Integrating Artificial Intelligence and Blockchain to Enhance Earthquake Prediction and Response Systems**
 ## Interdisciplinary Problem & Context
 Disaster prediction and response systems face major challenges: fragmented data, lack of real-time integration, limited scalability, privacy concerns, and poor transparency in resource allocation. Traditional systems struggle to process massive, heterogeneous data streams and coordinate among diverse stakeholders, leading to delays, inefficiencies, and resource mismanagement during disasters. The integration of AI and blockchain is proposed to overcome these barriers by enabling accurate predictions, secure data sharing, and transparent, accountable operations across the disaster management lifecycle *1,3,17,13*.
 
