@@ -11,8 +11,10 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
 # Load the dataset
-df = pd.read_csv("../data/earthquake_data.csv")
-
+csv_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'earthquake_alert_balanced_dataset.csv')
+if not os.path.exists(csv_path):
+    raise FileNotFoundError(f"Dataset not found at: {csv_path}")
+df = pd.read_csv(csv_path)
 
 # Check for missing values
 print(df.isnull().sum())
